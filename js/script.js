@@ -1,7 +1,7 @@
 // Copyright (c) 2025 Catherine Vu All rights reserved
 //
 // Created by: Catherine Vu
-// Created on: May 2025
+// Created on: April 2025
 // This file contains the JS functions for index.html
 
 "use strict"
